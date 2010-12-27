@@ -13,3 +13,13 @@ two:
   image_url: MyString
   price: 9.99
   stock_qnty: 1
+
+ruby:
+    title:          Programming ruby
+    description:
+        Ruby is a fast growing and exciting dynamic language.
+        If you need to get working programs delivered fast you
+        should add Ruby to your toolbox.
+    price:          49.50
+    image_url:      ruby.png
+    stock_qnty:     1
